@@ -1,10 +1,9 @@
 User-agent: *
 Allow: /
+Sitemap: https://vagaspelobrasil.com.br/sitemap.xml
 
+# AI crawlers — permitidos
 User-agent: GPTBot
-Allow: /
-
-User-agent: ChatGPT-User
 Allow: /
 
 User-agent: ClaudeBot
@@ -16,4 +15,5 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://vagaspelobrasil.com.br/sitemap.xml
+User-agent: Bingbot
+Allow: /

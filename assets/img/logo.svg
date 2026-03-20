@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" width="200" height="48">
+  <circle cx="24" cy="24" r="22" fill="#f59e0b"/>
+  <path d="M16 20h16v12a2 2 0 01-2 2H18a2 2 0 01-2-2V20z" fill="none" stroke="#001e40" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 20v-2a4 4 0 018 0v2" fill="none" stroke="#001e40" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="56" y="31" font-family="Manrope, sans-serif" font-weight="800" font-size="22" fill="#001e40">vagas pelo <tspan fill="#f59e0b">brasil</tspan></text>
+</svg>
