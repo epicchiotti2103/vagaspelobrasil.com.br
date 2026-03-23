@@ -1,0 +1,35 @@
+# Vagas pelo Brasil
+
+> Oportunidades de emprego atualizadas diariamente em todo o Brasil. Conteudo sobre carreira, curriculo, entrevista, salario e mercado de trabalho.
+
+## Sobre
+- Site: https://vagaspelobrasil.com.br
+- Foco: vagas de emprego + blog sobre carreira e mercado de trabalho no Brasil
+- Atualizacao: vagas diarias via API, blog semanal
+- Publico: profissionais em busca de emprego, transicao de carreira, primeiro emprego
+
+## Paginas principais
+- Home: https://vagaspelobrasil.com.br/
+- Vagas: https://vagaspelobrasil.com.br/vagas/
+- Blog: https://vagaspelobrasil.com.br/blog/
+- Sobre: https://vagaspelobrasil.com.br/sobre.html
+
+## Artigos do blog
+- Como fazer um curriculo que se destaca em 2026: https://vagaspelobrasil.com.br/blog/como-fazer-curriculo-2026/
+- 10 erros comuns no curriculo que eliminam candidatos: https://vagaspelobrasil.com.br/blog/erros-comuns-curriculo-brasileiro/
+- Como se preparar para uma entrevista de emprego: https://vagaspelobrasil.com.br/blog/como-se-preparar-entrevista-emprego/
+- 15 perguntas mais comuns em entrevistas remotas: https://vagaspelobrasil.com.br/blog/perguntas-entrevista-remota/
+- Vagas remotas no Brasil - onde encontrar: https://vagaspelobrasil.com.br/blog/vagas-remotas-brasil-guia/
+- Areas que mais contratam no Brasil em 2026: https://vagaspelobrasil.com.br/blog/areas-que-mais-contratam-brasil/
+- Profissoes do futuro no Brasil: https://vagaspelobrasil.com.br/blog/profissoes-futuro-2026/
+- Como fazer transicao de carreira: https://vagaspelobrasil.com.br/blog/como-fazer-transicao-carreira/
+- Como negociar salario: https://vagaspelobrasil.com.br/blog/como-negociar-salario-proposta/
+- CLT vs PJ - qual vale mais a pena em 2026: https://vagaspelobrasil.com.br/blog/clt-vs-pj-comparativo/
+- Direitos trabalhistas que todo brasileiro precisa conhecer: https://vagaspelobrasil.com.br/blog/direitos-trabalhistas-que-todo-brasileiro-precisa-conhecer/
+- Como usar o LinkedIn para conseguir emprego: https://vagaspelobrasil.com.br/blog/como-usar-linkedin-conseguir-emprego/
+- Primeiro emprego - guia completo: https://vagaspelobrasil.com.br/blog/primeiro-emprego-guia-completo/
+- Como pedir demissao profissionalmente: https://vagaspelobrasil.com.br/blog/como-pedir-demissao-profissionalmente/
+- Seguro-desemprego - como funciona: https://vagaspelobrasil.com.br/blog/seguro-desemprego-como-funciona/
+
+## Contato
+- Email: contato@vagaspelobrasil.com.br
