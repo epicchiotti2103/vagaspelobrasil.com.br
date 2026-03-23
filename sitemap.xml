@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://vagaspelobrasil.com.br/vagas/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://vagaspelobrasil.com.br/blog/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -24,5 +29,80 @@
     <loc>https://vagaspelobrasil.com.br/privacidade.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/vagas-remotas-brasil-guia/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/seguro-desemprego-como-funciona/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/profissoes-futuro-2026/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/primeiro-emprego-guia-completo/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/perguntas-entrevista-remota/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/erros-comuns-curriculo-brasileiro/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/direitos-trabalhistas-que-todo-brasileiro-precisa-conhecer/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/como-usar-linkedin-conseguir-emprego/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/como-se-preparar-entrevista-emprego/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/como-pedir-demissao-profissionalmente/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/como-negociar-salario-proposta/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/como-fazer-transicao-carreira/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/como-fazer-curriculo-2026/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/clt-vs-pj-comparativo/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/areas-que-mais-contratam-brasil/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
