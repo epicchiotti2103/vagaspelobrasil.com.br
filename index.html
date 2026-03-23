@@ -289,10 +289,10 @@
         <h2>Vagas por estado</h2>
       </div>
       <div class="region-grid">
-        <div class="region-card"><span>São Paulo</span><span class="region-count">842</span></div>
-        <div class="region-card"><span>Rio de Janeiro</span><span class="region-count">40</span></div>
+        <div class="region-card"><span>São Paulo</span><span class="region-count">2</span></div>
+        <div class="region-card"><span>Rio de Janeiro</span><span class="region-count">41</span></div>
         <div class="region-card"><span>Minas Gerais</span><span class="region-count">6</span></div>
-        <div class="region-card"><span>Paraná</span><span class="region-count">274</span></div>
+        <div class="region-card"><span>Paraná</span><span class="region-count">27</span></div>
         <div class="region-card"><span>Bahia</span><span class="region-count">15</span></div>
         <div class="region-card">
           <span>Remoto</span>
@@ -444,6 +444,24 @@
   });
   inputs.forEach(function(i){i.addEventListener('keypress',function(e){
     if(e.key==='Enter'){e.preventDefault();btn.click();}
+  });});
+})();
+</script>
+<script id="heroSearchV4">
+(function(){
+  var box=document.querySelector('.search-box');
+  if(!box)return;
+  var inputs=box.querySelectorAll('input');
+  var btn=box.querySelector('button');
+  function doSearch(e){
+    if(e)e.preventDefault();
+    var q=(inputs[0]?inputs[0].value:'')+(inputs[1]?' '+inputs[1].value:'');
+    q=q.trim();
+    window.location.href=q?'/vagas/?q='+encodeURIComponent(q):'/vagas/';
+  }
+  if(btn)btn.addEventListener('click',doSearch);
+  inputs.forEach(function(i){i.addEventListener('keypress',function(e){
+    if(e.key==='Enter')doSearch(e);
   });});
 })();
 </script>
