@@ -2,107 +2,152 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vagaspelobrasil.com.br/</loc>
-    <changefreq>daily</changefreq>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://vagaspelobrasil.com.br/vagas/</loc>
+    <loc>https://vagaspelobrasil.com.br/blog/</loc>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://vagaspelobrasil.com.br/blog/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://vagaspelobrasil.com.br/sobre.html</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://vagaspelobrasil.com.br/sobre.html</loc>
+    <loc>https://vagaspelobrasil.com.br/contato.html</loc>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://vagaspelobrasil.com.br/contato.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
     <loc>https://vagaspelobrasil.com.br/privacidade.html</loc>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://vagaspelobrasil.com.br/blog/vagas-remotas-brasil-guia/</loc>
+    <loc>https://vagaspelobrasil.com.br/blog/areas-que-mais-contratam-brasil/</loc>
+    <lastmod>2026-01-15</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://vagaspelobrasil.com.br/blog/seguro-desemprego-como-funciona/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://vagaspelobrasil.com.br/blog/profissoes-futuro-2026/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://vagaspelobrasil.com.br/blog/primeiro-emprego-guia-completo/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://vagaspelobrasil.com.br/blog/perguntas-entrevista-remota/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://vagaspelobrasil.com.br/blog/erros-comuns-curriculo-brasileiro/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://vagaspelobrasil.com.br/blog/direitos-trabalhistas-que-todo-brasileiro-precisa-conhecer/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://vagaspelobrasil.com.br/blog/como-usar-linkedin-conseguir-emprego/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://vagaspelobrasil.com.br/blog/como-se-preparar-entrevista-emprego/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://vagaspelobrasil.com.br/blog/como-pedir-demissao-profissionalmente/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://vagaspelobrasil.com.br/blog/como-negociar-salario-proposta/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://vagaspelobrasil.com.br/blog/como-fazer-transicao-carreira/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://vagaspelobrasil.com.br/blog/como-fazer-curriculo-2026/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vagaspelobrasil.com.br/blog/clt-vs-pj-comparativo/</loc>
+    <lastmod>2026-01-19</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vagaspelobrasil.com.br/blog/areas-que-mais-contratam-brasil/</loc>
+    <loc>https://vagaspelobrasil.com.br/blog/como-criar-portfolio-profissional/</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/como-fazer-curriculo-2026/</loc>
+    <lastmod>2026-01-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/como-fazer-transicao-carreira/</loc>
+    <lastmod>2026-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/como-negociar-salario-proposta/</loc>
+    <lastmod>2026-01-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/como-passar-testes-ia-triagens-automatizadas/</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/como-pedir-demissao-profissionalmente/</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/como-se-preparar-entrevista-emprego/</loc>
+    <lastmod>2026-02-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/como-usar-ia-busca-emprego/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/como-usar-linkedin-conseguir-emprego/</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/direitos-trabalhistas-que-todo-brasileiro-precisa-conhecer/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/erros-comuns-curriculo-brasileiro/</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/perguntas-entrevista-remota/</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/primeiro-emprego-guia-completo/</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/profissoes-futuro-2026/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/recolocacao-profissional-apos-40-anos/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/seguro-desemprego-como-funciona/</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/soft-skills-mais-importantes-contratacoes/</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vagaspelobrasil.com.br/blog/vagas-remotas-brasil-guia/</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
